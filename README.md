@@ -1,2 +1,11 @@
 # final-itop
-this is a repo <b> my repo</b>
+
+
+
+
+this is a <img src ='logo.png'>
+
+
+
+<img src ='logo.png'>
+![images var](logo.png)
